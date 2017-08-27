@@ -7,6 +7,15 @@ JSON作为一种数据交换格式越来越多地被用于web开发中，并在�
 HiJson使用java开发，基于gson包，格式化json字符并以树的形式展示，支持各种常用操作，支持多标签！
 
 
+
+## Requirement
+
+* NetBeans IDE 8
+* JDK 1.7 or higher
+
+
+
+
 ## About
 
 License: [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0)
